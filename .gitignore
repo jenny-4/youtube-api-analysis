@@ -1,1 +1,5 @@
 venv/
+.ipynb_checkpoints/
+/jupyter_lab_config.py
+/jupyter_lab_workspaces/
+/node_modules/
